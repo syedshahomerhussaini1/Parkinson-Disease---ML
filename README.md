@@ -1,4 +1,4 @@
-### 🧠 Parkinson’s Disease Prediction Using Machine Learning
+# 🧠 Parkinson’s Disease Prediction Using Machine Learning
 
 This project focuses on predicting Parkinson’s Disease using Machine Learning models based on biomedical voice measurements.
 The goal is to assist in early detection of Parkinson’s Disease by analyzing patterns in patient data.
