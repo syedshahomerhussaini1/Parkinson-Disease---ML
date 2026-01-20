@@ -1,5 +1,3 @@
-You can copy-paste this directly into README.md.
-
 ### 🧠 Parkinson’s Disease Prediction Using Machine Learning
 
 This project focuses on predicting Parkinson’s Disease using Machine Learning models based on biomedical voice measurements.
